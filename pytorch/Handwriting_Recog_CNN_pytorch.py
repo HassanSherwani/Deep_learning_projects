@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Feb 15 14:20:46 2019
-
-@author: Hassan
-
 Handwriting recognition project using CNN concept
 """
 from __future__ import print_function
