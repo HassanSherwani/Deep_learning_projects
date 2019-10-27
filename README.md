@@ -4,12 +4,4 @@ Various deep learning projects ranging from image processing , text mining to si
 
 # Modules
 
-pandas<br>
-numpy<br>
-matplotlib<br>
-seaborn<br>
-sklearn<br>
-spacy<br>
-nltk<br>
-pytorch<br>
-keras<br>
+pandas, numpy , matplotlib, seaborn , sklearn, spacy, nltk , pytorch , keras
