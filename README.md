@@ -26,6 +26,24 @@ Various deep learning projects and concepts ranging from image processing , text
 - 11)- Political Party's result prediction
 
 - 12)- Product performance
+
+- 13)- Recurrent Neural Networks (RNN)
+
+- 14)- Reuters Text Analysis
+
+- 15)- Twitter Sentiment Analysis
+
+- 16)- Text Classification
+
+- 17)- Text Classification using Tokenization
+
+- 18)- Text Generation using patent data
+
+- 19)- Titanic Survival dataset
+
+- 20)- Predicting flower color
+
+- 21)- Code and implementation of PyTorch library
 # Modules
 
 - For data processing : pandas, numpy
@@ -33,3 +51,7 @@ Various deep learning projects and concepts ranging from image processing , text
 - For machine learning : sklearn, SciPy
 - For text mining : spacy, nltk, TextBlob, Gensim
 - For deep learning : pytorch ,OpenCV, tensorflow, keras
+
+# Credit
+
+
