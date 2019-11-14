@@ -28,4 +28,8 @@ Various deep learning projects and concepts ranging from image processing , text
 - 12)- Product performance
 # Modules
 
-pandas, numpy , matplotlib, seaborn , sklearn, spacy, nltk , pytorch , keras
+For data processing : pandas, numpy
+For visualization : matplotlib, seaborn , plotly
+For machine learning : sklearn, SciPy
+For text mining : spacy, nltk, TextBlob, Gensim
+For deep learning : pytorch ,OpenCV, tensorflow, keras
