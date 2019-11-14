@@ -54,4 +54,6 @@ Various deep learning projects and concepts ranging from image processing , text
 
 # Credit
 
+Special thanks to udemy, Udacity, Super DataScience , medium.com, Vidya analytics, and youtube channels such as Siraj, sentdex, lazylizard,Programming with Mosh,3Blue1Brown
+
 
